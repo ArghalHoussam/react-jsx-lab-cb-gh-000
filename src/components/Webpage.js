@@ -1,5 +1,5 @@
-// import React, { Component } from 'react';
-// import FillerText from './FillerText';
+import React from 'react';
+import FillerText from './FillerText';
 
 export class Webpage extends Component {
   render() {
